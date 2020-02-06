@@ -1,0 +1,7 @@
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\bin\Debug\projeto-teste.exe.config
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\bin\Debug\projeto-teste.exe
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\bin\Debug\projeto-teste.pdb
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csprojAssemblyReference.cache
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\obj\Debug\projeto-teste.exe
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\projeto-teste\projeto-teste\obj\Debug\projeto-teste.pdb
