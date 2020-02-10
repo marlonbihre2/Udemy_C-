@@ -1,0 +1,7 @@
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\bin\Debug\saida de dados.exe.config
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\bin\Debug\saida de dados.exe
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\bin\Debug\saida de dados.pdb
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\obj\Debug\saida de dados.csprojAssemblyReference.cache
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\obj\Debug\saida de dados.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\obj\Debug\saida de dados.exe
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\saida de dados\saida de dados\obj\Debug\saida de dados.pdb
