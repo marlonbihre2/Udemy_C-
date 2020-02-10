@@ -1,0 +1,7 @@
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\obj\Debug\operador-de-atribuicao.csprojAssemblyReference.cache
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\obj\Debug\operador-de-atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\bin\Debug\operador-de-atribuicao.exe.config
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\bin\Debug\operador-de-atribuicao.exe
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\bin\Debug\operador-de-atribuicao.pdb
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\obj\Debug\operador-de-atribuicao.exe
+C:\Users\Marlon\Desktop\Programação\Udemy\C#\Udemy_C-\Revisao-logica\operador-de-atribuicao\operador-de-atribuicao\obj\Debug\operador-de-atribuicao.pdb
